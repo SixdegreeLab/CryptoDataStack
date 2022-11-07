@@ -1,22 +1,22 @@
-![](assets/crypto-data-stack-title.svg)
+# Crypto Data Stack Wiki
 
 <p align="center" >
-Version：V0.1.0            &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp        Update：2022-10-11       
+版本：V0.1.0            &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp        更新日期：2022-10-11       
 </p>
 
 ---
-This repo is initiated by [SixdegreeLab](https://twitter.com/SixdegreeLab) and is used to collect various data-related products in the Crypto field, including various data analysis applications, learning materials, development materials, and more.
 
+这是一个由[SixdegreeLab](https://twitter.com/SixdegreeLab)发起，用来收集Crypto领域各种数据相关的wiki，包括各种数据分析类应用，学习资料，开发资料等等。
 
-> If you also want to learn data analysis in the blockchain field, or contribute to this repository, please submit a PR or join us:
+> 如果你也想学习区块链领域的数据分析，或者为该资料库贡献一份力量，欢迎提交PR或者加入我们：
 >
 > - discord：https://discord.gg/7GHMBKEQvR
 >
-> - WeChat：sixdegree
+> - 微信群：sixdegree
 
 ---
 
-Our list is organized based on the following classifications, and try to cover as many data-related materials related to crypto subdomain as possible.
+我们整体的资料库基于以下的分类进行组织，尽量覆盖更多的涉及Crypto细分领域的数据相关资料。
 
 ![](assets/crypto-data-stack-category.png)
 
