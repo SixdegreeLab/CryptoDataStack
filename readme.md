@@ -1,4 +1,6 @@
+<p align="center">
 ![](assets/crypto-data-stack-title.svg)
+</p>
 
 <p align="center" >
 Version：V0.1.0            &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp        Update：2022-10-11       
