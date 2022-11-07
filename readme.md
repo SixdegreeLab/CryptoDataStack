@@ -30,8 +30,8 @@ Our list is organized based on the following classifications, and try to cover a
 
 | **Block Chain**                                              | **URL**                                                   | **Notes** |
 | ------------------------------------------------------------ | --------------------------------------------------------- | --------- |
-| <img width=20px style="vertical-align:middle" src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=023">Bitcoin | https://btcscan.org/                                      |           |
-| <img width=20px style="vertical-align:middle" src="https://cryptologos.cc/logos/ethereum-eth-logo.png">Ethereum | https://etherscan.io/                                     |           |
+| <img width=20px align=top src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=023">Bitcoin | https://btcscan.org/                                      |           |
+| <img width=20px align=top src="https://cryptologos.cc/logos/ethereum-eth-logo.png">Ethereum | https://etherscan.io/                                     |           |
 | BNB Chain                                                    | https://bscscan.com/                                      |           |
 | Solana                                                       | https://explorer.solana.com/    \|    https://solscan.io/ |           |
 | Arbitrum                                                     | https://arbiscan.io/                                      |           |
