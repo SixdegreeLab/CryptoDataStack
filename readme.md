@@ -1,5 +1,5 @@
 <p align="center">
-![](assets/crypto-data-stack-title.svg)
+<img src="assets/crypto-data-stack-title.svg">
 </p>
 
 <p align="center" >
