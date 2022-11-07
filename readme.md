@@ -18,7 +18,7 @@
 
 我们整体的资料库基于以下的分类进行组织，尽量覆盖更多的涉及Crypto细分领域的数据相关资料。
 
-![](assets/crypto data stack category.png)
+![](assets/crypto-data-stack-category.png)
 
 
 
@@ -26,25 +26,25 @@
 
 ### Chain Explorer
 
-| **Block Chain** | **URL**                                               | **Notes** |
-| --------------- | ----------------------------------------------------- | --------- |
-| Bitcoin         | https://btcscan.org/                                  |           |
-| Ethereum        | https://etherscan.io/                                 |           |
-| BNB Chain       | https://bscscan.com/                                  |           |
-| Solana          | https://explorer.solana.com/<br />https://solscan.io/ |           |
-| Arbitrum        | https://arbiscan.io/                                  |           |
-| Optimism        | https://optimistic.etherscan.io/                      |           |
-| ZKSync          | https://zkscan.io/                                    |           |
-| StarkNet        | https://starkscan.co/                                 |           |
-| Avalanche       | https://snowtrace.io/<br />https://avascan.info/      |           |
-| Polygon         | https://polygonscan.com/                              |           |
-| sui             | https://explorer.devnet.sui.io/                       |           |
-| Aptos           | https://aptoscan.com/                                 |           |
-| near            | https://www.nearscan.org/home                         |           |
-| Flow            | https://flowscan.org/                                 |           |
-| Telos           | https://www.teloscan.io/                              |           |
-| fantom          | https://ftmscan.com/                                  |           |
-| Gnosis          | https://gnosisscan.io/                                |           |
+| **Block Chain** | **URL**                                                  | **Notes** |
+| --------------- | -------------------------------------------------------- | --------- |
+| Bitcoin         | https://btcscan.org/                                     |           |
+| Ethereum        | https://etherscan.io/                                    |           |
+| BNB Chain       | https://bscscan.com/                                     |           |
+| Solana          | https://explorer.solana.com/    /    https://solscan.io/ |           |
+| Arbitrum        | https://arbiscan.io/                                     |           |
+| Optimism        | https://optimistic.etherscan.io/                         |           |
+| ZKSync          | https://zkscan.io/                                       |           |
+| StarkNet        | https://starkscan.co/                                    |           |
+| Avalanche       | https://snowtrace.io/  /   https://avascan.info/         |           |
+| Polygon         | https://polygonscan.com/                                 |           |
+| sui             | https://explorer.devnet.sui.io/                          |           |
+| Aptos           | https://aptoscan.com/                                    |           |
+| near            | https://www.nearscan.org/home                            |           |
+| Flow            | https://flowscan.org/                                    |           |
+| Telos           | https://www.teloscan.io/                                 |           |
+| fantom          | https://ftmscan.com/                                     |           |
+| Gnosis          | https://gnosisscan.io/                                   |           |
 
 > mainly focus on block chain with smart contract.
 
