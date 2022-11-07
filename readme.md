@@ -28,25 +28,25 @@ Our list is organized based on the following classifications, and try to cover a
 
 ### Chain Explorer
 
-| **Block Chain** | **URL**                                                   | **Notes** |
-| --------------- | --------------------------------------------------------- | --------- |
-| Bitcoin         | https://btcscan.org/                                      |           |
-| Ethereum        | https://etherscan.io/                                     |           |
-| BNB Chain       | https://bscscan.com/                                      |           |
-| Solana          | https://explorer.solana.com/    \|    https://solscan.io/ |           |
-| Arbitrum        | https://arbiscan.io/                                      |           |
-| Optimism        | https://optimistic.etherscan.io/                          |           |
-| ZKSync          | https://zkscan.io/                                        |           |
-| StarkNet        | https://starkscan.co/                                     |           |
-| Avalanche       | https://snowtrace.io/  \|   https://avascan.info/         |           |
-| Polygon         | https://polygonscan.com/                                  |           |
-| sui             | https://explorer.devnet.sui.io/                           |           |
-| Aptos           | https://aptoscan.com/                                     |           |
-| near            | https://www.nearscan.org/home                             |           |
-| Flow            | https://flowscan.org/                                     |           |
-| Telos           | https://www.teloscan.io/                                  |           |
-| fantom          | https://ftmscan.com/                                      |           |
-| Gnosis          | https://gnosisscan.io/                                    |           |
+| **Block Chain**                                              | **URL**                                                   | **Notes** |
+| ------------------------------------------------------------ | --------------------------------------------------------- | --------- |
+| <img width=20px style="vertical-align:middle" src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=023">Bitcoin | https://btcscan.org/                                      |           |
+| <img width=20px style="vertical-align:middle" src="https://cryptologos.cc/logos/ethereum-eth-logo.png">Ethereum | https://etherscan.io/                                     |           |
+| BNB Chain                                                    | https://bscscan.com/                                      |           |
+| Solana                                                       | https://explorer.solana.com/    \|    https://solscan.io/ |           |
+| Arbitrum                                                     | https://arbiscan.io/                                      |           |
+| Optimism                                                     | https://optimistic.etherscan.io/                          |           |
+| ZKSync                                                       | https://zkscan.io/                                        |           |
+| StarkNet                                                     | https://starkscan.co/                                     |           |
+| Avalanche                                                    | https://snowtrace.io/  \|   https://avascan.info/         |           |
+| Polygon                                                      | https://polygonscan.com/                                  |           |
+| sui                                                          | https://explorer.devnet.sui.io/                           |           |
+| Aptos                                                        | https://aptoscan.com/                                     |           |
+| near                                                         | https://www.nearscan.org/home                             |           |
+| Flow                                                         | https://flowscan.org/                                     |           |
+| Telos                                                        | https://www.teloscan.io/                                  |           |
+| fantom                                                       | https://ftmscan.com/                                      |           |
+| Gnosis                                                       | https://gnosisscan.io/                                    |           |
 
 > mainly focus on block chain with smart contract.
 
