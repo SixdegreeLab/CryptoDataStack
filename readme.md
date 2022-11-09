@@ -68,41 +68,41 @@ Our list is organized based on the following classifications, and try to cover a
 
 ## Dev Tools
 
-### Analytics Platform
+| Name            | Category           | URL                               | Notes |
+| --------------- | ------------------ | --------------------------------- | ----- |
+| Dune            | Analytics Platform | https://dune.com/                 |       |
+| Flipside Crypto | Analytics Platform | https://flipsidecrypto.xyz/       |       |
+| Footprint       | Analytics Platform | https://www.footprint.network/    |       |
+| Luabase         | Analytics Platform | https://luabase.com/              |       |
+| GeniiData       | Analytics Platform | https://geniidata.com/            |       |
+| Zettablock      | Analytics Platform | https://www.zettablock.com/       |       |
+| Chainbase       | Analytics Platform | https://chainbase.online/         |       |
+| Transpose       | Analytics Platform | https://www.transpose.io/         |       |
+| Google Bigquery | Analytics Platform | https://console.cloud.google.com/ |       |
+| The Graph       | Indexing           | https://thegraph.com/             |       |
+| GlodSky         | Indexing           |                                   |       |
+| SubQuery        | Indexing           |                                   |       |
+| BitQuery        | Indexing           |                                   |       |
+| DappLooker      | Indexing           |                                   |       |
+| web3Go          | Indexing           |                                   |       |
+| Vibe            | Indexing           |                                   |       |
 
-| Name            | URL                               | Notes |
-| --------------- | --------------------------------- | ----- |
-| Dune            | https://dune.com/                 |       |
-| Flipside Crypto | https://flipsidecrypto.xyz/       |       |
-| Footprint       | https://www.footprint.network/    |       |
-| Luabase         | https://luabase.com/              |       |
-| GeniiData       | https://geniidata.com/            |       |
-| Zettablock      | https://www.zettablock.com/       |       |
-| Chainbase       | https://chainbase.online/         |       |
-| Transpose       | https://www.transpose.io/         |       |
-| Google Bigquery | https://console.cloud.google.com/ |       |
-|                 |                                   |       |
 
 
+## Data Accessor
 
-### Indexing
-
-| Name       | URL                   | Notes |
-| ---------- | --------------------- | ----- |
-| The Graph  | https://thegraph.com/ |       |
-| GlodSky    |                       |       |
-| SubQuery   |                       |       |
-| BitQuery   |                       |       |
-| DappLooker |                       |       |
-| web3Go     |                       |       |
-| Vibe       |                       |       |
-
+| Name         | URL           | URL                                            | Notes                                                        |
+| ------------ | ------------- | ---------------------------------------------- | ------------------------------------------------------------ |
+| Infura       | Node Provider |                                                |                                                              |
+| Alchemy      | Node Provider |                                                |                                                              |
+| BlockNative  | Node Provider |                                                |                                                              |
+| Go-ethereum  | Node Client   | https://github.com/ethereum/go-ethereum        |                                                              |
+| ethereum-etl | ETL Tools     | https://github.com/blockchain-etl/ethereum-etl |                                                              |
+| bitcoin-etl  | ETL Tools     | https://github.com/blockchain-etl/bitcoin-etl  | ETL scripts for Bitcoin, Litecoin, Dash, Zcash, Doge, Bitcoin Cash |
 
 
 
 ## Data Source
-
-### Chain Explorer
 
 | **Block Chain**                                              | **URL**                                                   | **Notes** |
 | ------------------------------------------------------------ | --------------------------------------------------------- | --------- |
@@ -125,17 +125,6 @@ Our list is organized based on the following classifications, and try to cover a
 | Gnosis                                                       | https://gnosisscan.io/                                    |           |
 
 > Note: mainly focus on block chain with smart contract.
-
-## Data Accessor
-
-| Name         | URL           | URL                                            | Notes                                                        |
-| ------------ | ------------- | ---------------------------------------------- | ------------------------------------------------------------ |
-| Infura       | Node Provider |                                                |                                                              |
-| Alchemy      | Node Provider |                                                |                                                              |
-| BlockNative  | Node Provider |                                                |                                                              |
-| Go-ethereum  | Node Client   | https://github.com/ethereum/go-ethereum        |                                                              |
-| ethereum-etl | ETL Tools     | https://github.com/blockchain-etl/ethereum-etl |                                                              |
-| bitcoin-etl  | ETL Tools     | https://github.com/blockchain-etl/bitcoin-etl  | ETL scripts for Bitcoin, Litecoin, Dash, Zcash, Doge, Bitcoin Cash |
 
 
 
