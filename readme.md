@@ -31,14 +31,13 @@ Our list is organized based on the following classifications, and try to cover a
 | trading view | Trading Tools | https://www.tradingview.com/ |       |
 | Dex tools    | Trading Tools | https://dextools.io/         |       |
 | Dexguru | Trading Tools | https://dex.guru/ | |
-| Dexscreener |  | https://dexscreener.com/ | |
-| Defined |  |  | |
+| Dexscreener | Trading Tools | https://dexscreener.com/ | |
+| Defined | Trading Tools | https://www.defined.fi/ | |
 | debank   | Portfolifo  | https://debank.com/ ||
 | metamask | Portfolifo | https://portfolio.metamask.io/ ||
 | Zapper   | Portfolifo | https://zapper.fi/zh ||
 | zerion   | Portfolifo   | https://zerion.io/ ||
 | DefiLlama | DeFi | https://defillama.com/ ||
-| Metascan |  |  ||
 | NFTEye | NFT | https://nfteye.io/ ||
 | L2fees | Layer2 | https://l2fees.info/ ||
 | L2beat | Layer2 | https://l2beat.com/scaling/tvl/ ||
@@ -48,20 +47,23 @@ Our list is organized based on the following classifications, and try to cover a
 | Path | Marketing Data |  ||
 | Comics | Marketing Data |  ||
 | Trading Strategy | Marketing Data |  ||
-| Crypto Compare | Marketing Data |  ||
-| Coin API | Marketing Data |  ||
+| Crypto Compare | Marketing Data | https://www.cryptocompare.com/ ||
+| Coin API | Marketing Data | https://www.coinapi.io/ ||
+| Coin360 | Marketing Data | https://coin360.com/ ||
+| IntoTheBlock | Enterprise Research | https://www.intotheblock.com/ ||
 | Nansen | Enterprise Research | https://www.nansen.ai/ ||
 | Token Terminal | Enterprise Research | https://tokenterminal.com/ ||
-| Chainanalysis | Enterprise Research |  ||
+| Chainanalysis | Enterprise Research | https://www.chainalysis.com/ ||
 | GlassNode | Enterprise Research | https://glassnode.com/ ||
-| Coin Metrics | Enterprise Research |  ||
-| Breadcrumbs | Enterprise Research |  ||
-| Amberdata | Enterprise Research |  ||
-| MESSARI |  |  ||
-| CryptoQuant |  |  ||
-| CryptoWatch |  |  ||
-| Watchers |  |  ||
-| DappRadar |  |  ||
+| Coin Metrics | Enterprise Research | https://coinmetrics.io/ ||
+| Breadcrumbs | Enterprise Research | https://www.breadcrumbs.app/ ||
+| Amberdata | Enterprise Research | https://www.amberdata.io/ ||
+| MESSARI | Enterprise Research | https://messari.io/ ||
+| CryptoQuant | Enterprise Research | https://cryptoquant.com/asset/btc/summary ||
+| CryptoWatch |  | https://cryptowat.ch/zh-cn ||
+| Watchers |  | https://www.watchers.pro/#/login ||
+| DappRadar |  | https://dappradar.com/ ||
+|  | MEV |  ||
 
 
 
@@ -80,12 +82,11 @@ Our list is organized based on the following classifications, and try to cover a
 | Transpose       | Analytics Platform | https://www.transpose.io/         |       |
 | Google Bigquery | Analytics Platform | https://console.cloud.google.com/ |       |
 | The Graph       | Indexing           | https://thegraph.com/             |       |
-| GlodSky         | Indexing           |                                   |       |
-| SubQuery        | Indexing           |                                   |       |
-| BitQuery        | Indexing           |                                   |       |
-| DappLooker      | Indexing           |                                   |       |
-| web3Go          | Indexing           |                                   |       |
-| Vibe            | Indexing           |                                   |       |
+| GlodSky         | Indexing           | https://goldsky.com/              |       |
+| SubQuery        | Indexing           | https://subquery.network/         |       |
+| BitQuery        | Indexing           | https://bitquery.io/              |       |
+| DappLooker      | Indexing           | https://dapplooker.com/           |       |
+| web3Go          | Indexing           | https://web3go.xyz/               |       |
 
 
 
@@ -93,9 +94,10 @@ Our list is organized based on the following classifications, and try to cover a
 
 | Name         | URL           | URL                                            | Notes                                                        |
 | ------------ | ------------- | ---------------------------------------------- | ------------------------------------------------------------ |
-| Infura       | Node Provider |                                                |                                                              |
-| Alchemy      | Node Provider |                                                |                                                              |
-| BlockNative  | Node Provider |                                                |                                                              |
+| Infura       | Node Provider | https://www.infura.io/                         |                                                              |
+| Alchemy      | Node Provider | https://www.alchemy.com/                       |                                                              |
+| BlockNative  | Node Provider | https://www.blocknative.com/                   |                                                              |
+| Ankr         | Node Provider | https://www.ankr.com/                          |                                                              |
 | Go-ethereum  | Node Client   | https://github.com/ethereum/go-ethereum        |                                                              |
 | ethereum-etl | ETL Tools     | https://github.com/blockchain-etl/ethereum-etl |                                                              |
 | bitcoin-etl  | ETL Tools     | https://github.com/blockchain-etl/bitcoin-etl  | ETL scripts for Bitcoin, Litecoin, Dash, Zcash, Doge, Bitcoin Cash |
