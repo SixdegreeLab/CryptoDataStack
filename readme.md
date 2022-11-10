@@ -23,7 +23,7 @@ This list is organized based on the following category, and try to cover as many
 
 ## Data Apps
 
-| Category      | Name         | URL                          | Notes |
+| Category      | Name         | URL                          | Description |
 | ------------- | ------------ | ---------------------------- | ----- |
 | Trading Tools | trading view | https://www.tradingview.com/ |       |
 | Trading Tools | Dex tools    | https://dextools.io/         |       |
@@ -69,27 +69,27 @@ This list is organized based on the following category, and try to cover as many
 
 ## Dev Tools
 
-| Category           | Name            | URL                               | Notes |
-| ------------------ | --------------- | --------------------------------- | ----- |
-| Analytics Platform | Dune            | https://dune.com/                 |       |
-| Analytics Platform | Flipside Crypto | https://flipsidecrypto.xyz/       |       |
-| Analytics Platform | Footprint       | https://www.footprint.network/    |       |
-| Analytics Platform | Luabase         | https://luabase.com/              |       |
-| Analytics Platform | GeniiData       | https://geniidata.com/            |       |
-| Analytics Platform | Zettablock      | https://www.zettablock.com/       |       |
-| Analytics Platform | Chainbase       | https://chainbase.online/         |       |
-| Analytics Platform | Transpose       | https://www.transpose.io/         |       |
-| Analytics Platform | Google Bigquery | https://console.cloud.google.com/ |       |
-| Analytics Platform | Space and Time  | https://www.spaceandtime.io/      |       |
-| Indexing           | The Graph       | https://thegraph.com/             |       |
-| Indexing           | GlodSky         | https://goldsky.com/              |       |
-| Indexing           | SubQuery        | https://subquery.network/         |       |
-| Indexing           | BitQuery        | https://bitquery.io/              |       |
-| Indexing           | DappLooker      | https://dapplooker.com/           |       |
-| Indexing           | web3Go          | https://web3go.xyz/               |       |
-| Web3 DB            | Tableland       | https://tableland.xyz/            |       |
-| Web3 DB            | Ceramic         | https://ceramic.network/          |       |
-| Web3 DB            | Kwii            | https://www.kwil.com/             |       |
+| Category           | Name            | URL                               | Description |
+| ------------------ | --------------- | --------------------------------- | ----------- |
+| Analytics Platform | Dune            | https://dune.com/                 |             |
+| Analytics Platform | Flipside Crypto | https://flipsidecrypto.xyz/       |             |
+| Analytics Platform | Footprint       | https://www.footprint.network/    |             |
+| Analytics Platform | Luabase         | https://luabase.com/              |             |
+| Analytics Platform | GeniiData       | https://geniidata.com/            |             |
+| Analytics Platform | Zettablock      | https://www.zettablock.com/       |             |
+| Analytics Platform | Chainbase       | https://chainbase.online/         |             |
+| Analytics Platform | Transpose       | https://www.transpose.io/         |             |
+| Analytics Platform | Google Bigquery | https://console.cloud.google.com/ |             |
+| Analytics Platform | Space and Time  | https://www.spaceandtime.io/      |             |
+| Indexing           | The Graph       | https://thegraph.com/             |             |
+| Indexing           | GlodSky         | https://goldsky.com/              |             |
+| Indexing           | SubQuery        | https://subquery.network/         |             |
+| Indexing           | BitQuery        | https://bitquery.io/              |             |
+| Indexing           | DappLooker      | https://dapplooker.com/           |             |
+| Indexing           | web3Go          | https://web3go.xyz/               |             |
+| Web3 DB            | Tableland       | https://tableland.xyz/            |             |
+| Web3 DB            | Ceramic         | https://ceramic.network/          |             |
+| Web3 DB            | Kwii            | https://www.kwil.com/             |             |
 
 
 
@@ -109,25 +109,25 @@ This list is organized based on the following category, and try to cover as many
 
 ## Data Source
 
-| **Block Chain**                                              | **URL**                                                   | **Notes** |
-| ------------------------------------------------------------ | --------------------------------------------------------- | --------- |
-| <img width=18px align=top src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=023">Bitcoin | https://btcscan.org/                                      |           |
-| <img width=18px align=top src="https://cryptologos.cc/logos/ethereum-eth-logo.png">Ethereum | https://etherscan.io/                                     |           |
-| BNB Chain                                                    | https://bscscan.com/                                      |           |
-| Solana                                                       | https://explorer.solana.com/    \|    https://solscan.io/ |           |
-| Arbitrum                                                     | https://arbiscan.io/                                      |           |
-| Optimism                                                     | https://optimistic.etherscan.io/                          |           |
-| ZKSync                                                       | https://zkscan.io/                                        |           |
-| StarkNet                                                     | https://starkscan.co/                                     |           |
-| Avalanche                                                    | https://snowtrace.io/  \|   https://avascan.info/         |           |
-| Polygon                                                      | https://polygonscan.com/                                  |           |
-| sui                                                          | https://explorer.devnet.sui.io/                           |           |
-| Aptos                                                        | https://aptoscan.com/                                     |           |
-| near                                                         | https://www.nearscan.org/home                             |           |
-| Flow                                                         | https://flowscan.org/                                     |           |
-| Telos                                                        | https://www.teloscan.io/                                  |           |
-| fantom                                                       | https://ftmscan.com/                                      |           |
-| Gnosis                                                       | https://gnosisscan.io/                                    |           |
+| **Block Chain**                                              | **URL**                                                   | **Description** |
+| ------------------------------------------------------------ | --------------------------------------------------------- | --------------- |
+| <img width=18px align=top src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=023">Bitcoin | https://btcscan.org/                                      |                 |
+| <img width=18px align=top src="https://cryptologos.cc/logos/ethereum-eth-logo.png">Ethereum | https://etherscan.io/                                     |                 |
+| BNB Chain                                                    | https://bscscan.com/                                      |                 |
+| Solana                                                       | https://explorer.solana.com/    \|    https://solscan.io/ |                 |
+| Arbitrum                                                     | https://arbiscan.io/                                      |                 |
+| Optimism                                                     | https://optimistic.etherscan.io/                          |                 |
+| ZKSync                                                       | https://zkscan.io/                                        |                 |
+| StarkNet                                                     | https://starkscan.co/                                     |                 |
+| Avalanche                                                    | https://snowtrace.io/  \|   https://avascan.info/         |                 |
+| Polygon                                                      | https://polygonscan.com/                                  |                 |
+| sui                                                          | https://explorer.devnet.sui.io/                           |                 |
+| Aptos                                                        | https://aptoscan.com/                                     |                 |
+| near                                                         | https://www.nearscan.org/home                             |                 |
+| Flow                                                         | https://flowscan.org/                                     |                 |
+| Telos                                                        | https://www.teloscan.io/                                  |                 |
+| fantom                                                       | https://ftmscan.com/                                      |                 |
+| Gnosis                                                       | https://gnosisscan.io/                                    |                 |
 
 > Note: mainly focus on block chain with smart contract.
 
@@ -135,17 +135,17 @@ This list is organized based on the following category, and try to cover as many
 
 ## Community
 
-| Name         | URL                            | Notes   |
-| ------------ | ------------------------------ | ------- |
-| MetricsDAO   | https://metricsdao.xyz/        | English |
-| OurNetwork   | https://ournetwork.mirror.xyz/ | English |
-| SixdegreeLab | https://sixdegree.xyz/         | Chinese |
+| Name         | URL                            | Description |
+| ------------ | ------------------------------ | ----------- |
+| MetricsDAO   | https://metricsdao.xyz/        | English     |
+| OurNetwork   | https://ournetwork.mirror.xyz/ | English     |
+| SixdegreeLab | https://sixdegree.xyz/         | Chinese     |
 
 
 
 ## Tutorial
 
-| Name                    | Link                                                         | Notes         |
+| Name                    | Link                                                         | Description   |
 | :---------------------- | ------------------------------------------------------------ | ------------- |
 | Web3 Analytics 101      | https://docs.metricsdao.xyz/analyst-resources/web3-analytics-101 | By MetricsDAO |
 | MasteringChainAnalytics | https://sixdegreelab.gitbook.io/mastering-chain-analytics/   | Chinese       |
