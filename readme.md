@@ -4,7 +4,7 @@
 
 ---
 
-This repo is initiated by [SixdegreeLab](https://twitter.com/SixdegreeLab) and is used to collect various data-related products in the Crypto field, including various data analysis applications, learning materials, development materials, and more.
+This repo is a collections of various data-related products in the crypto field, including data analysis applications, learning materials, development materials, and more...
 
 
 > If you also want to learn data analysis in the blockchain field, or contribute to this repository, please submit a PR or join us:
@@ -15,7 +15,7 @@ This repo is initiated by [SixdegreeLab](https://twitter.com/SixdegreeLab) and i
 
 ---
 
-Our list is organized based on the following classifications, and try to cover as many data-related materials related to crypto subdomain as possible.
+This list is organized based on the following category, and try to cover as many data materials related to crypto subdomain as possible.
 
 ![](assets/crypto-data-stack-category.png)
 
