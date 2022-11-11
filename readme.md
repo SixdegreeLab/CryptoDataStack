@@ -39,6 +39,7 @@ This list is organized based on the following category, and try to cover as many
 | NFT | NFTNerds | https://nftnerds.ai/ ||
 | Layer2 | L2fees | https://l2fees.info/ ||
 | Layer2 | L2beat | https://l2beat.com/scaling/tvl/ ||
+| Layer2 | Orbiter | https://www.orbiter.finance/data ||
 | Marketing Data | CoinMarketCap | https://coinmarketcap.com/ ||
 | Marketing Data | CoinGecko | https://www.coingecko.com/ ||
 | Marketing Data | CryptoQuant | https://cryptoquant.com/ ||
@@ -59,6 +60,7 @@ This list is organized based on the following category, and try to cover as many
 | Enterprise Research | MESSARI | https://messari.io/ ||
 | Enterprise Research | CryptoQuant | https://cryptoquant.com/asset/btc/summary ||
 | Enterprise Research | Watchers | https://www.watchers.pro/#/login ||
+| Enterprise Research | Santiment | https://santiment.net/ ||
 | MEV | EigenPhi | https://eigenphi.io/ ||
 | MEV | Flashbots | https://explore.flashbots.net/ ||
 | Gas | ultra sound money | https://ultrasound.money/ ||
