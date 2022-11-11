@@ -30,10 +30,11 @@ This list is organized based on the following category, and try to cover as many
 | Trading Tools | Dexguru | https://dex.guru/ | |
 | Trading Tools | Dexscreener | https://dexscreener.com/ | |
 | Trading Tools | Defined | https://www.defined.fi/ | |
-| Portfolifo  | debank   | https://debank.com/ ||
-| Portfolifo | metamask | https://portfolio.metamask.io/ ||
-| Portfolifo | Zapper   | https://zapper.fi/zh ||
-| Portfolifo   | zerion   | https://zerion.io/ ||
+| Portfolio | debank   | https://debank.com/ ||
+| Portfolio | metamask | https://portfolio.metamask.io/ ||
+| Portfolio | Zapper   | https://zapper.fi/zh ||
+| Portfolio | Zerion  | https://zerion.io/ ||
+| Portfolio | Nansen Portfolio | https://portfolio.nansen.ai/ ||
 | DeFi | DefiLlama | https://defillama.com/ ||
 | NFT | NFTEye | https://nfteye.io/ ||
 | NFT | NFTNerds | https://nftnerds.ai/ ||
